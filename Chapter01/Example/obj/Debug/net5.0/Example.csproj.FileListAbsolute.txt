@@ -1,0 +1,15 @@
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/Example.csproj.AssemblyReference.cache
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/Example.AssemblyInfoInputs.cache
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/Example.AssemblyInfo.cs
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/Example.csproj.CoreCompileInputs.cache
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/bin/Debug/net5.0/Example.deps.json
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/bin/Debug/net5.0/Example.runtimeconfig.json
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/bin/Debug/net5.0/Example.runtimeconfig.dev.json
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/bin/Debug/net5.0/Example.dll
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/bin/Debug/net5.0/ref/Example.dll
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/bin/Debug/net5.0/Example.pdb
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/Example.dll
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/ref/Example.dll
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/Example.pdb
+/Users/eddyguzman/Desktop/Code/Chapter01/Example/obj/Debug/net5.0/Example.genruntimeconfig.cache
